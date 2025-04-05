@@ -1,6 +1,9 @@
 # Tyrano-Live2d-Plugin
 Tyrano可视化游戏制作工具的live2d补丁，修改版本。
 
+项目内的模型仅供测试，版权归Live2d公司所有，请勿商用。
+项目代码可以随便用，基于guansss/pixi-live2d-display
+
 使用方法：
 
 添加live2d图层
